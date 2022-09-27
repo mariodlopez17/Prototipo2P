@@ -4,3 +4,6 @@ C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaCont
 C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
 C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
 C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Mario Lopez\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

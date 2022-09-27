@@ -4,3 +4,13 @@ C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.cspr
 C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.csproj.CoreCompileInputs.cache
 C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.dll
 C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.pdb
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\bin\Debug\CapaControlador.dll
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\bin\Debug\CapaControlador.pdb
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.Inicio.resources
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.Productos.resources
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.csproj.GenerateResource.cache
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.csproj.CopyComplete
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.Proveedores.resources
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.Ordcompra.resources
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.Vcompras.resources
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.Aproveedores.resources

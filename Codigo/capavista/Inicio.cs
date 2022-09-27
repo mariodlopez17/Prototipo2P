@@ -26,5 +26,33 @@ namespace capavista
         {
 
         }
+
+        private void productosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Productos rep = new Productos();
+            rep.MdiParent = this;
+            rep.Show();
+        }
+
+        private void proveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Proveedores rep = new Proveedores();
+            rep.MdiParent = this;
+            rep.Show();
+        }
+
+        private void ordenDeCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ordcompra rep = new Ordcompra();
+            rep.MdiParent = this;
+            rep.Show();
+        }
+
+        private void comprasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Vcompras rep = new Vcompras();
+            rep.MdiParent = this;
+            rep.Show();
+        }
     }
 }
