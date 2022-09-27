@@ -1,0 +1,6 @@
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\bin\Debug\capavista.dll
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\bin\Debug\capavista.pdb
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.csproj.AssemblyReference.cache
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.csproj.CoreCompileInputs.cache
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.dll
+C:\Users\Mario Lopez\source\repos\Prototipo2P\capavista\obj\Debug\capavista.pdb
